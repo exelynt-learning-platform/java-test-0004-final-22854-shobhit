@@ -1,4 +1,4 @@
-public class Pattern {
+public class SquarePattern {
     private static final int MAX_VAL = 4;
 
     public static void main(String[] args) {
